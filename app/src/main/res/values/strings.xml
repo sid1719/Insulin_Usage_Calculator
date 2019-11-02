@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">main</string>
+    <string name="energy_calci">Energy Calci</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="insulin_calci">Insulin Calci</string>
+    <string name="exit">Exit</string>
+    <string name="click_to_continue">Click to continue</string>
+    <string name="todo">TODO</string>
+    <string name="blood_sugar">Blood sugar :</string>
+    <string name="carbohydrates_consumed">Carbohydrates Consumed:</string>
+    <string name="insulin_calculator">Insulin Calculator</string>
+    <string name="title_activity_main6">Main6Activity</string>
+    <string name="title_activity_energy">energyActivity</string>
+</resources>
